@@ -52,7 +52,6 @@ $ npm start (to start the server), or nodemon server
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/%20moment-lightblue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoDB%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
