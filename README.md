@@ -30,7 +30,7 @@ In the first terminal
 ```
 $ cd client
 $ npm install (to install client-side dependencies)
-$ npm run  start (to start the client)
+$ npm run start (to start the client), or npm start
 ```
 
 In the second terminal
@@ -39,48 +39,34 @@ In the second terminal
 - Create your mongoDB connection url, which you'll use as your MONGO_URL
 - Supply the following credentials
 
-```
-#  --- .env  ---
-
-MONGODB_URL
-PORT =5000
-TOKEN_SECRET=
-TMDB_BASE_URL=
-TMDB_KEY=
-```
-
-```
 # --- Terminal ---
 
 $ npm install (to install server-side dependencies)
-$ npm start (to start the server)
+$ npm start (to start the server), or nodemon server
 ``````
 
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
 ##  🔌 Technologies used ✔️:
-![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/EJS%20-yellow?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/helmets-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/%20Bootstrap-lightblue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/%20moment-lightblue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoDB%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/joi%20-aqua?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/bootstrap-teal?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
 
 
 ##  Screenshots:
 📸
 <br>
-<img src="./PROJECTIMAGES/image01.jpg" alt="project screenshot01" />
-<img src="./PROJECTIMAGES/image02.jpg" alt="project screenshot02" />
-<img src="./PROJECTIMAGES/image03.jpg" alt="project screenshot03" />
-<img src="./PROJECTIMAGES/image04.jpg" alt="project screenshot04" />
-<img src="./PROJECTIMAGES/image05.jpg" alt="project screenshot05" />
-
+<img src="./projectImages/image01.jpg" alt="project screenshot01" />
+<img src="./projectImages/image02.jpg" alt="project screenshot02" />
+<img src="./projectImages/image03.jpg" alt="project screenshot03" />
 <br>
 
 ##  Key Features:
