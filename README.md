@@ -1,4 +1,4 @@
-<h1 align ="center" > 📽️  Video Stream </h1>
+<h1 align ="center" > 📽️  BAR MEAN APLICATION </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic Bar website(MEAN STACK)</h4>
  <h4  align ="center">Little Bar Aplication.  Made with Angular MongoDB, Express, Nodejs  </h4>
@@ -14,20 +14,47 @@ Fullstack open source application, dynamic Bar website(MEAN STACK)</h4>
   * [📸 Screenshots](#screenshots)
   * [Author](#author)
   * <br>
-  * ## ⚙️ Configuration and Setup
+  
+
+## Configuration and Setup 
+## <h2> ⚙️ </h2>
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
 
 - Open the project in your prefered code editor.
 - Go to terminal -> New terminal (If you are using VS code)
+- Split your terminal into two (run the client on one terminal and the server on the other terminal)
+
+In the first terminal
 
 ```
 $ cd client
 $ npm install (to install client-side dependencies)
-$ npm run  start (to start the client)  or nodemon app
-DONT FORGET TO CREATE THE IMAGE FOLDER - ./public/thumbnails - ./public/videos
+$ npm run  start (to start the client)
 ```
+
+In the second terminal
+
+- cd server and Set environment variables in .env
+- Create your mongoDB connection url, which you'll use as your MONGO_URL
+- Supply the following credentials
+
 ```
+#  --- .env  ---
+
+MONGODB_URL
+PORT =5000
+TOKEN_SECRET=
+TMDB_BASE_URL=
+TMDB_KEY=
+```
+
+```
+# --- Terminal ---
+
+$ npm install (to install server-side dependencies)
+$ npm start (to start the server)
+``````
 
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
