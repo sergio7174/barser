@@ -1,4 +1,4 @@
-<h1 align ="center" > 📽️  BAR MEAN APLICATION </h1>
+<h1 align ="center" > 🍾 BAR MEAN APLICATION </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic Bar website(MEAN STACK)</h4>
  <h4  align ="center">Little Bar Aplication.  Made with Angular MongoDB, Express, Nodejs  </h4>
@@ -83,6 +83,7 @@ $ npm start (to start the server), or nodemon server
 
 - [Angular 14](https://angular.io/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
+- - [rxjs](https://angular.io/guide/rx-library) - Reactive Extensions Library for JavaScript.
 
 ####  Backend 
 
