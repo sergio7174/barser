@@ -1,7 +1,7 @@
 <h1 align ="center" > 🍾 BAR MEAN APLICATION </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic Bar website(MEAN STACK)</h4>
- <h4  align ="center">Little Bar Aplication.  Made with Angular MongoDB, Express, Nodejs  </h4>
+ <h4  align ="center">Little Bar Aplication.  Made with Angular(14) MongoDB, Express, Nodejs  </h4>
 <br>
 <br>
 
