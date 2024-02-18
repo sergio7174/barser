@@ -70,10 +70,9 @@ $ npm start (to start the server), or nodemon server
 
 ##  Key Features:
 
-- Authentication: 👓 User sign up and login with email and password
-- Upload Videos to private Channel.
-- Add likes and commnets, to videos 
-
+- Reservations
+- See Drinks Galleries
+- Get Contacts
 
 
 ##  Technologies used
@@ -82,8 +81,8 @@ $ npm start (to start the server), or nodemon server
 
 ####  Frontend 
 
-- [EJS ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces and backend servers specifically for single-page applications
-- [React Toastify](https://www.npmjs.com/package/react-toastify) - To display interactive and responsive notifications (toasts) in web applications
+- [Angular 14](https://angular.io/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
 
 ####  Backend 
 
@@ -96,7 +95,7 @@ $ npm start (to start the server), or nodemon server
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [express-validator](https://www.npmjs.com/package/express-validator) - Used in Node.js applications with the Express framework to validate data submitted by users (user input)
 - [nodemon](https://nodemon.io/) - Development utility for Node.js applications. Node.js is a runtime platform that allows you to run JavaScript on the server side.t
-- [Multer] - Handle Images
+
 
 ####  Database 
 
