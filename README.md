@@ -47,7 +47,7 @@ $ npm start (to start the server), or nodemon server
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
-##  🔌 Technologies used ✔️:
+##  🔌 Technologies used ✔️: 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
